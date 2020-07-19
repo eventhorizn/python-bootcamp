@@ -32,3 +32,5 @@
 
 # Variable Assignment
 
+s = 'Hello World Whatever'
+s.split()
