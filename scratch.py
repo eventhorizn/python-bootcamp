@@ -37,3 +37,4 @@ s.split()
 
 t = 'tinker'
 t[1:4]
+
